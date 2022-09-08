@@ -1,0 +1,16 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [],
+  "author": "Omar Hassan",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^8.2.5",
+    "node-sass": "^5.0.0"
+  }
+}
