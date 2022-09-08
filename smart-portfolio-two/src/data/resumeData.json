@@ -1,0 +1,182 @@
+{
+  "header": [
+    {
+      "id": 1,
+      "name": "Home",
+      "href": "home"
+    },
+    {
+      "id": 2,
+      "name": "About",
+      "href": "about"
+    },
+    {
+      "id": 3,
+      "name": "Services",
+      "href": "services"
+    },
+    {
+      "id": 4,
+      "name": "Portfolio",
+      "href": "portfolio"
+    },
+    {
+      "id": 5,
+      "name": "Contact",
+      "href": "contact"
+    }
+  ],
+  "about": {
+    "description": "Freelance frontend developer, I am passionate about creating and devloping web interfaces. With years of experience in web-design and development.",
+    "experience": [
+      {
+        "number": "05",
+        "achevement": "Years of experience"
+      },
+      {
+        "number": "29",
+        "achevement": "Projects completes"
+      },
+      {
+        "number": "07",
+        "achevement": "Best work awards"
+      }
+    ]
+  },
+  "qualification": {
+    "education": [
+      {
+        "id": 1,
+        "title": "Computer technican",
+        "place": "Lima - Computer institute",
+        "date": "Apr 2015 - Dec 2018"
+      },
+      {
+        "id": 2,
+        "title": "Master in web developer",
+        "place": "Madrid - Design institute",
+        "date": "Jan 2019 - Aug 2020"
+      }
+    ],
+    "work": [
+      {
+        "id": 1,
+        "title": "Senior Front End Developer",
+        "place": "Abobe - New York",
+        "date": "Jan 2019 - Aug 2019"
+      },
+      {
+        "id": 2,
+        "title": "Ui / UX Designer",
+        "place": "Figma - Lima",
+        "date": "Oct 2019 - Dec 2019"
+      },
+      {
+        "id": 3,
+        "title": "Web Designer",
+        "place": "Applie Inc - California",
+        "date": "Jan 2020 - May 2020"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "service-1",
+      "title": "Ui/Ux Design",
+      "description": "Service that I offer and work, with years of experience in the work area.",
+      "icon": "bx bx-palette"
+    },
+    {
+      "id": "service-2",
+      "title": "Web Development",
+      "description": "Service that I offer and work, with years of experience in the work area.",
+      "icon": "bx bx-laptop"
+    },
+    {
+      "id": "service-3",
+      "title": "Graphic Design",
+      "description": "Service that I offer and work, with years of experience in the work area.",
+      "icon": "bx bx-pen"
+    }
+  ],
+  "portfolio": {
+    "webDevelopment": [
+      {
+        "id": 1,
+        "subTitle": "web development",
+        "title": "New portfolio of work done for a client.",
+        "img": "img/work1.jpg",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "subTitle": "web development",
+        "title": "New portfolio of work done for a client.",
+        "img": "img/work2.jpg",
+        "link": "#"
+      }
+    ],
+    "uxDesign": [
+      {
+        "id": 1,
+        "subTitle": "Ux design",
+        "title": "New portfolio of work done for a client.",
+        "img": "img/work3.jpg",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "subTitle": "Ux design",
+        "title": "New portfolio of work done for a client.",
+        "img": "img/work4.jpg",
+        "link": "#"
+      }
+    ],
+    "mobileApp": [
+      {
+        "id": 1,
+        "subTitle": "Mobile app",
+        "title": "New portfolio of work done for a client.",
+        "img": "img/work5.jpg",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "subTitle": "Mobile app",
+        "title": "New portfolio of work done for a client.",
+        "img": "img/work6.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  "testimonial": [
+    {
+      "id": 1,
+      "img": "img/testimonial1.jpg",
+      "name": "Nik Holly",
+      "description": "This company does a very good service, offers the best deals and does a good job, I recommend it."
+    },
+    {
+      "id": 2,
+      "img": "img/testimonial2.jpg",
+      "name": "Sara Mill",
+      "description": "This company does a very good service, offers the best deals and does a good job, I recommend it."
+    },
+    {
+      "id": 3,
+      "img": "img/testimonial3.jpg",
+      "name": "Clay Mitchell",
+      "description": "This company does a very good service, offers the best deals and does a good job, I recommend it."
+    }
+  ],
+  "contact": {
+    "location": "#123 Lima-peru",
+    "email": "email@gmail.com",
+    "phone": "+0-999-888-777"
+  },
+  "footer": {
+    "title": "Omar Hassan",
+    "description": "I'm Omar Hassan and this is my personal website, consult me here.",
+    "copy": "2021 Omaar. All Rights Reserved."
+  }
+}
