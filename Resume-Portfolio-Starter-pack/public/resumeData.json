@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Omar Hassan",
+    "occupation": "Also known as Pharaoh Dev",
+    "description": "I love space!",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Omar! You might also know me as Pharaoh Dev. I've been coding for over 4 years now. As a Front-End developer I've learned to code in University and I started to self taught my self scince December 2019. Along the journey I realised my passion existed in helping begginers and experts helped me pursue my dreams as an upcoming developer. With this passion, I have now built and cloned REAL WORLD projects. Through my journey I've learned to  deliver the best I can do in any project with super clean code and beautiful looking user interfaces, I've learned how to face challenges, problem solving and NEVER GIVING UP. I Love Travling around the world, meeting diffrent and new people, making lots of friends. I Love nature, Life, Space, Star Gazing with my telescope and of course I Love Programming.",
+    "contactmessage": "Let's Talk!",
+    "email": "omaar_5@hotmail.com",
+    "phone": "+02 01140125555",
+    "address": {
+      "street": "Ali Ibrahim Ramez st.",
+      "city": "Cairo,",
+      "state": "Heliopolis",
+      "zip": "11371"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1WlhwYWkQfFxmAuNt8JK7BfjhK8aZZIKG/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCeeU1Gs_4pVi_1isC0rHxqA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/omarhassan16694/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/omar-hassan-8b1869137",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/omaar_sk/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/oomaar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Future University in Egypt (FUE)",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "February 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Pharaoh Dev",
+        "title": "Front-End Developer",
+        "years": "December 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building my self as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "imgURL": "/images/skills/html.png",
+        "name": "HTML, CSS",
+        "level": "99%"
+      },
+      {
+        "imgURL": "/images/skills/js.png",
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "imgURL": "/images/skills/sass.png",
+        "name": "Sass",
+        "level": "99%"
+      },
+      {
+        "imgURL": "/images/skills/react.png",
+        "name": "React-JS",
+        "level": "90%"
+      },
+      {
+        "imgURL": "/images/skills/next.png",
+        "name": "Next-JS",
+        "level": "85%"
+      },
+      {
+        "imgURL": "/images/skills/redux.png",
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
+        "imgURL": "/images/skills/git.png",
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "imgURL": "/images/skills/onfire.png",
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "imgURL": "/images/skills/mern.png",
+        "name": "MERN Stack",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "hulu Clone (Next-JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-xi-wheat.vercel.app/"
+      },
+      {
+        "title": "Netflix App (React-JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://dreamy-meninsky-4d3cd3.netlify.app/"
+      },
+      {
+        "title": "Geforce Clone (Next-JS)",
+        "category": "",
+        "image": "geforce.jpg",
+        "url": "https://geforce-clone-oomaar.vercel.app/"
+      },
+      {
+        "title": "Makeup Store Demo (React-JS)",
+        "category": "",
+        "image": "makeup.jpg",
+        "url": "https://serene-spence-a7962f.netlify.app/"
+      },
+      {
+        "title": "Covid-19-tracker (React-JS)",
+        "category": "",
+        "image": "covid-tracker.jpg",
+        "url": "https://covid-19-tracker-16970.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone (Next-JS)",
+        "category": "",
+        "image": "whatsapp.jpg",
+        "url": "https://whatsapp-clone-oomaar.vercel.app/"
+      },
+      {
+        "title": "Google Clone (Next-JS & Tailwind-CSS)",
+        "category": "",
+        "image": "google.jpg",
+        "url": "https://google-clone-tailwind-delta.vercel.app/"
+      },
+      {
+        "title": "Twitter Clone (React-JS)",
+        "category": "",
+        "image": "twitter.jpg",
+        "url": "https://twitter-4e819.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+    ]
+  }
+}
