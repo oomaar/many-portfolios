@@ -1,0 +1,14 @@
+export { default as Header } from "./Header/Header";
+export { default as Home } from "./Home/Home";
+export { default as About } from "./About/About";
+export { default as Skill } from "./Skill/Skill";
+export { default as Qualification } from "./Qualification/Qualification";
+export { default as Services } from "./Services/Services";
+export { default as Portfolio } from "./Portfolio/Portfolio";
+export { default as Project } from "./Project/Project";
+export { default as Testimonial } from "./Testimonial/Testimonial";
+export { default as Contact } from "./Contact/Contact";
+export { default as Footer } from "./Footer/Footer";
+export { default as Background } from "./Background/Background";
+export { default as ScrollUp } from "./ScrollUp/ScrollUp";
+export { default as BackgroundAnimation } from "./BackgrooundAnimation/BackgroundAnimation";
